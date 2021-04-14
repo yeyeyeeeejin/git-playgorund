@@ -1,1 +1,2 @@
-# git-playgorund
+# git-playgorund\
+깃으로 놀아보자
